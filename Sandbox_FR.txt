@@ -1,0 +1,15 @@
+Sandbox_FR = {
+	Sandbox_KYRRealWeatherMod = "KYR Real Weather",
+
+    Sandbox_KYRRealWeatherMod_LatitudeVariation = "Modifier la Latitude (Heures Saisonnières) de votre Monde !",
+	Sandbox_KYRRealWeatherMod_LatitudeVariation_tooltip = "Nombre plus élevé pour plus de Variation dans les Heures de Journée d'Été et de Nuit d'Hiver ! (38 est le Jeu de Base)",
+
+    Sandbox_KYRRealWeatherMod_Maxtemp = "Température Maximale Mondiale",
+	Sandbox_KYRRealWeatherMod_Maxtemp_tooltip = "Modifiez pour ajuster la température max du Monde ! (25 est le Jeu de Base / Toujours soumis à la Variation Saisonnière)",
+
+    Sandbox_KYRRealWeatherMod_Mintemp = "Température Minimale Mondiale",
+	Sandbox_KYRRealWeatherMod_Mintemp_tooltip = "Modifiez pour ajuster la température min du Monde ! (0 est le Jeu de Base / Toujours soumis à la Variation Saisonnière)",
+
+    Sandbox_KYRRealWeatherMod_SeasonVariation = "Variation Globale dans les Saisons",
+	Sandbox_KYRRealWeatherMod_SeasonVariation_tooltip = "Variation globale dans les Plages de Température entre les Saisons (7 est le Jeu de Base)",
+}
